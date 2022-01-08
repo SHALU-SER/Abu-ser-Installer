@@ -1,6 +1,6 @@
 {
-    "name": "Amalser ",
-    "description": "Amalser is the Modified Version of WhatsAsena, Made By @Amal-ser with Baileys.",
+    "name": "Abu-ser ",
+    "description": "Abu-ser is the Modified Version of WhatsAsena, Made By @SHALU-SER with Baileys.",
     "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Amal-ser/Amalser",
@@ -196,7 +196,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏Amalser⤎╾━━━•"
+            "value": "•━━━━╼⤏Abuser⤎╾━━━•"
         },
         "WORK_TYPE": {
             "description": "Amalser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
